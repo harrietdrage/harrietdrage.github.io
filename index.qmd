@@ -1,10 +1,24 @@
 ---
-title: "harrietdrage.github.io"
+title: "Dr Harriet B. Drage"
+image: /IMG_3987.HEIC
+about: 
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/harriet-drage-48444a131/
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0002-0759-5970
+    - icon: cloud
+      text: Web of Science
+      href: https://www.webofscience.com/wos/author/record/AAC-7414-2022
+    - icon: square-bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/harriedrage.bsky.social
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Test website in progress!
 
 ```{r}
 1 + 1
