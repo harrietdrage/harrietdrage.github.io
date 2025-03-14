@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dr Harriet B. Drage</title>
+<title>Research – Dr Harriet B. Drage</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -70,9 +71,10 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked">
+<body class="docked">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -81,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">About</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Research.html">Research</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -113,11 +115,10 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
  <span class="menu-text"><h3>Computational evolutionary palaeobiologist</h3></span>
   </li>
-        <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">About</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -128,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./research.html" class="sidebar-item-text sidebar-link">
+  <a href="./Research.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Research</span></a>
   </div>
 </li>
@@ -138,10 +139,13 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Roles</span></a>
   </div>
 </li>
-        <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item">
- <span class="menu-text"><h6>Copyright 2025, Harriet B. Drage</h6></span>
+ <span class="menu-text">Copyright 2024, Harriet B. Drage</span>
   </li>
+        <li class="sidebar-item">
+ <span class="menu-text">This website is built with [](https://github.com/harrietdrage/harrietdrage.github.io){target=_blank}, [](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}</span>
+  </li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
     </ul>
     </div>
 </nav>
@@ -149,47 +153,31 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles column-page-right">
-  <div class="about-entity">
-    <img src="/IMG_3987.HEIC" class="about-image
-  rounded " style="width: 20em;">
-    <div class="about-links">
-  <a href="https://www.linkedin.com/in/harriet-drage-48444a131/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://orcid.org/0000-0002-0759-5970" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-orcid" aria-label="orcid"></i> ORCiD</span>
-  </a>
-  <a href="https://www.webofscience.com/wos/author/record/AAC-7414-2022" class="about-link" rel="" target="">
-    <i class="bi bi-cloud"></i>
-     <span class="about-link-text">Web of Science</span>
-  </a>
-  <a href="https://bsky.app/profile/harriedrage.bsky.social" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">BlueSky</span>
-  </a>
-  <a href="https://github.com/harrietdrage" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">github</span>
-  </a>
-  <a href="https://www.researchgate.net/profile/Harriet-Drage-2" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-researchgate" aria-label="researchgate"></i> ResearchGate</span>
-  </a>
+<main class="content column-page-right" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Research</h1>
 </div>
+
+
+
+<div class="quarto-title-meta column-page-right">
+
+    
+  
+    
   </div>
-  <div class="about-contents"><main class="content column-page-right" id="quarto-document-content">
-<h2>
-Value-driven leader, open science advocate, fan of fossils.
-</h2>
-<p>Postdoctoral Researcher at the University of Lausanne, working on the palaeoecology of arthropods in deep time. Previously a Commissioning Editor for science in secondary education (age 11-18) for Oxford University Press. Enjoys climbing, hiking, weightlifting, video games, and sewing in her spare time.</p>
-<p>University of Oxford | Oxford, UK PhD in Environmental Research | Oct 2014 - Dec 2018</p>
-<p>University College London | London, UK MSci in Palaeobiology | Oct 2010 - Oct 2014</p>
+  
 
 
-</main></div>
-</div>
- <!-- /main -->
+</header>
+
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -210,6 +198,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
