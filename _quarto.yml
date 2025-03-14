@@ -1,21 +1,22 @@
 project:
   type: website
   output-dir: docs
+#run gitcreds_set() when you're failing to publish because the authentication code has changed
 
 website:
   announcement: 
     content: "DRAFT WEBSITE - IN PROGRESS" 
     position: below-navbar 
   title: "Dr Harriet B. Drage"
-  favicon: /logo.png
+  favicon: /logo2.png
   sidebar:
     style: "docked" # or floating
-    logo: /logo.png
+    logo: /logo2.png
     logo-alt: "Dr Harriet B. Drage"
     title: Dr Harriet B. Drage
     search: false
     contents:
-      - text: <h3>Computational evolutionary palaeobiologist</h3>
+      - text: <h3>Computational palaeobiologist</h3>
       - text: "---"
       - href: index.qmd
         text: About
@@ -25,6 +26,9 @@ website:
         text: Research
       - href: responsibilities.qmd
         text: Roles
+      #- href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+       # text: CV
+        # target: _blank # opens link (or page) in a new browser tab
       - text: "---"
       - text: <h6>Copyright 2025, Harriet B. Drage</h6>
     tools:
@@ -38,9 +42,7 @@ website:
       - icon: twitter
         href: https://bsky.app/profile/harriedrage.bsky.social
     background: dark
-      #- href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
-       # text: CV
-        #target: _blank # opens link (or page) in a new browser tab
+
     
 format:
   html:
@@ -52,6 +54,9 @@ format:
     page-layout: full
     grid: 
       sidebar-width: 400px
+      body-width: 1400px
+      margin-width: 10px
+      gutter-width: 1.5em
 
 editor: visual
 
