@@ -1,11 +1,30 @@
 ---
-title: "harrietdrage.github.io"
+image: /IMG_3987.HEIC
+about: 
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/harriet-drage-48444a131/
+    - text: "{{< fa brands orcid >}} ORCiD"
+      href: https://orcid.org/0000-0002-0759-5970
+    - icon: cloud
+      text: Web of Science
+      href: https://www.webofscience.com/wos/author/record/AAC-7414-2022
+    - icon: twitter
+      text: BlueSky
+      href: https://bsky.app/profile/harriedrage.bsky.social
+    - icon: github
+      text: github
+      href: https://github.com/harrietdrage
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Harriet-Drage-2
 ---
 
-This is a Quarto website.
+<h2>Value-driven leader, open science advocate, fan of fossils.</h2>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Postdoctoral Researcher at the University of Lausanne, working on the palaeoecology of arthropods in deep time. Previously a Commissioning Editor for science in secondary education (age 11-18) for Oxford University Press. Enjoys climbing, hiking, weightlifting, video games, and sewing in her spare time.
 
-```{r}
-1 + 1
-```
+University of Oxford \| Oxford, UK PhD in Environmental Research \| Oct 2014 - Dec 2018
+
+University College London \| London, UK MSci in Palaeobiology \| Oct 2010 - Oct 2014

@@ -3,18 +3,55 @@ project:
   output-dir: docs
 
 website:
-  title: "harrietdrage.github.io"
-  navbar:
-    left:
+  announcement: 
+    content: "DRAFT WEBSITE - IN PROGRESS" 
+    position: below-navbar 
+  title: "Dr Harriet B. Drage"
+  favicon: /logo.png
+  sidebar:
+    style: "docked" # or floating
+    logo: /logo.png
+    logo-alt: "Dr Harriet B. Drage"
+    title: Dr Harriet B. Drage
+    search: false
+    contents:
+      - text: <h3>Computational evolutionary palaeobiologist</h3>
+      - text: "---"
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: research.qmd
+        text: Research
+      - href: responsibilities.qmd
+        text: Roles
+      - text: "---"
+      - text: <h6>Copyright 2025, Harriet B. Drage</h6>
+    tools:
+      - icon: github
+        href: https://github.com/harrietdrage
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/harriet-drage-48444a131/
+      - icon: cloud
+        href: https://www.webofscience.com/wos/author/record/AAC-7414-2022
+      - icon: twitter
+        href: https://bsky.app/profile/harriedrage.bsky.social
+    background: dark
+      #- href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+       # text: CV
+        #target: _blank # opens link (or page) in a new browser tab
+    
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: styles.scss
+      #light: flatly, styles.scss #you can just add two different theme files for light/dark mode to work
+      #dark: darkly, styles.scss
+    mainfont: Nunito
+    toc: false
+    page-layout: full
+    grid: 
+      sidebar-width: 400px
 
 editor: visual
 
