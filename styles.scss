@@ -58,7 +58,7 @@ h1, h2 {
   font-size: $font-size-base * 3;
   color: $cream;
   font-family: $sen;
-  margin-top: 8em;
+  margin-top: 2em;
   line-height: 1.2;
   }
   .sidebar-item {
@@ -76,4 +76,27 @@ h1, h2 {
   max-height: 200px;
   width: auto;
   padding-left: 50px;
+}
+
+// Tables
+.table {
+ tr:nth-child(odd) {
+   background-color: $cream;
+ }
+  table-layout: fixed;
+  width: 100%;
+}
+.tablekey {
+  float: right;
+  line-height: 1;
+  font-size: $regular-font;
+  width: 500px;
+  height: 300px;
+}
+.pubsintro {
+  float: left;
+  line-height: 1;
+  font-size: $regular-font;
+  width: 500px;
+  height: 300px;
 }

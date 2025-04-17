@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 #run gitcreds_set() when you're failing to publish because the authentication code has changed
+#commit and push, then publish using quarto publish gh-pages, then merge to main branch on github
 
 website:
   announcement: 
