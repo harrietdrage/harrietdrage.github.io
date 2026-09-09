@@ -23,7 +23,7 @@ about:
 
 <h2>Value-driven leader, open science advocate, fan of fossils.</h2>
 
-I am currently a Postdoctoral Researcher at the University of Lausanne, working on the palaeobiology and palaeoecology of arthropods in deep time. To do so, I employ sophisticated computational analytical methods, statistics, and fluid dynamics techniques, using big data. I am an advocate of open-access publishing and data, and enjoy dabbling in web design.
+I am an Assistant Professor at the University of Geneva, working on the palaeobiology and palaeoecology of arthropods in deep time. To do so, I employ sophisticated computational analytical methods, statistics, and fluid dynamics techniques, using big data. I am an advocate of open-access publishing and data, and enjoy dabbling in web design.
 
 I am dedicated to improving publishing, conditions in academia, and inclusivity. I am Co-Founder and Managing Editor of <i>Open Palaeontology</i> (ISSN:), and Newsletter Editor and Charity Trustee for <i>The Palaeontological Association</i>.
 
