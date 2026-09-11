@@ -2,31 +2,31 @@
 title: "Roles"
 ---
 
-<h2>Responsibilities</h2>
+<h3>Responsibilities</h3>
 
-<h3>*Open Palaeontology* Co-Founder, Managing Editor, Steering Committee</h3>
+<h4>*Open Palaeontology* Co-Founder, Managing Editor, Steering Committee</h4>
 
 \| 2024 -- present
 
 I am a co-founder, Steering Committee member, and Managing Editor of [*Open Palaeontology*](https://www.openpalaeo.org/)*,* a new diamond open access journal. We present a transformative publishing model to increase transparency and accountability in academic research, support ECRs, and provide a venue to publish less visible research aspects like new analysis packages and negative results.
 
-<h3>The Palaeontological Association Newsletter Editor, charity trustee</h3>
+<h4>The Palaeontological Association Newsletter Editor, charity trustee</h4>
 
 \| 2023 -- present
 
 Member of Council Diversity Group, grant-awarding committees, and Annual Meeting presentation prize committees.
 
-<h3>Commission for the *Swiss Journal of Palaeontology* KSJP, Swiss Academy of Sciences, Council Member, Associate Editor</h3>
+<h4>Commission for the *Swiss Journal of Palaeontology* KSJP, Swiss Academy of Sciences, Council Member, Associate Editor</h4>
 
 \| 2022 -- present
 
-<h3>Réseau Romand mentee</h3>
+<h4>Réseau Romand mentee</h4>
 
 \| 2023 -- 2024
 
 Successful applicant for francophone Switzerland women's professorial mentoring scheme.
 
-<h2>Teaching and supervision</h2>
+<h3>Teaching and supervision</h3>
 
 - Co-supervisor for Sinéad Lynch, PhD thesis 'Euarthropod moulting in the fossil record', University of Lausanne, 2021 -- 2026
 
@@ -40,18 +40,18 @@ Successful applicant for francophone Switzerland women's professorial mentoring 
 
 - Small-group tutorial lecturer, arthropod palaeobiology and mass extinctions, University of Oxford, 2017
 
-<h2>Peer reviewer</h2>
+<h3>Peer reviewer</h3>
 
 Active reviewer for many international journals, see my [Web of Science](https://www.webofscience.com/wos/author/record/AAC-7414-2022) profile.
 
-<h2>Conference organisation</h2>
+<h3>Conference organisation</h3>
 
-- *Swiss Geoscience Meeting* annual palaeontology symposium organiser, 2022 -- present, Switzerland.
+- *Swiss Geoscience Meeting* annual palaeontology symposium organiser, 2022 -- present, Switzerland
 
-- *International Palaeontological Congress* symposium organiser, 2026, South Africa.
+- *International Palaeontological Congress* symposium organiser, 2026, South Africa
 
-- *Trilobite Biogeography and Ecology* workshop PI and organiser, 2023, Germany.
+- *Trilobite Biogeography and Ecology* workshop PI and organiser, 2023, Germany
 
-- *Society for Molecular Biology and Ecology* symposium organiser, 2023, Italy.
+- *Society for Molecular Biology and Ecology* symposium organiser, 2023, Italy
 
-- *Progressive Palaeontology* conference lead organiser, 2016, UK.
+- *Progressive Palaeontology* conference lead organiser, 2016, UK

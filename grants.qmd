@@ -1,3 +1,83 @@
 ---
-title: "grants"
+title: "Grants"
 ---
+
+<h3>Research funding: \~CHF 2’062’500 total</h3>
+
+<h4>ERC Starting Grant</h4>
+
+\| 2026–31, PI, €1.5 million
+
+Project: RECO-ECO: Reconstructing the Ecologies of Earth’s Earliest Arthropods
+
+I was awarded a 2025 Starting Grant from the European Research Council to start my lab at the University of Geneva and fund my research for 5 years. My project will develop a comprehensive computational and experimental fluid dynamics regime to test key ecological hypotheses for the earliest arthropods in the fossil record.
+
+<h4>Research Software Maintenance Fund grant, Institute of Research Software, UK</h4>
+
+\| 2026–28, Co-PI, £483'046
+
+Project: Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse
+
+As Co-PI and part of the core palaeoverse team, we were awarded a software development grant to employ two full-time employees (Community Engagement Officer and Software Developer) to develop the long-term maintenance of the Palaeoverse suite of analytical R packages. We are also running regular international workshops to teach these R analyses and open science practices, and are running two mentoring cohorts on software development. I am line manager for the Community Engagement Officer.
+
+<h4>BCUL open access funding</h4>
+
+\| 2025–26, Co-PI, CHF 10'000
+
+Grant to support the development of the journal *Open Palaeontology*, including commissioning production of a new website and branding package.
+
+<h4>Friedrich-Alexander-University PaleoSynthesis Project</h4>
+
+\| 2023–24, PI, CHF 20'000+
+
+Workshop: TriBE Trilobite Biogeography and Ecology
+
+Funding to organise and run a week-long international workshop for attendees from four continents. I was responsible for the entire workshop, including organisation and invitees, scientific direction, programme, and management. This established a working group of predominantly early career researchers to carry out long-term research on the early Palaeozoic global dispersal of trilobites.
+
+<h4>Geological Society of London, Research Grant</h4>
+
+\| 2023, PI, £2010
+
+Project: Ground truthing application of computational fluid dynamics to reconstruct extinct animal ecologies
+
+Funding to set-up an experimental protocol using flume tanks to gather force data on extinct animals occupying different ecological niches. This data is being used to validate computational fluid dynamic simulations of the same, providing the first robust ground truthing work for these simulations.
+
+<h4>University of Portsmouth, internal project funding</h4>
+
+\| 2023–24, Co-PI, £3000
+
+Project: Experimental validation of fluid dynamic simulations for reconstructing extinct animal ecologies (to further develop the GSL grant above)
+
+<h4>The Palaeontological Association, Research Grant</h4>
+
+\| 2023, Co-PI, £10'000
+
+Project: Exceptional preservation in tropical settings: a glimpse into the Cretaceous of the equatorial Neotropics
+
+Palaeontological and sedimentological field work of new Cretaceous sites in Colombia, with fully integrated research and teaching with local professionals and students to raise the profile of Global South palaeontology and develop ownership over palaeontological heritage.
+
+<h4>Australian Bicentennial Scholarship, KCL Menzies Centre for Australian Studies</h4>
+
+\| 2017–18, PI, £4000
+
+Project: Associations between trilobite intraspecific moulting variability and body proportions: *Estaingia bilobata* from the Cambrian Emu Bay Shale, Australia
+
+<h4>EU Synthesys Project</h4>
+
+\| 2016–17, PI, £2000
+
+Project: Post-embryonic development of *Dalmanitina,* and the evolution of facial suture fusion in Phacopina
+
+<h4>University College Oxford Old Members’ Fund</h4>
+
+\| 2016 and 2017, PI, £1000
+
+<h4>Elizabeth Hannah Jenkinson Fund, Department of Zoology, University of Oxford</h4>
+
+\| 2015–16, Co-PI, CHF 2000
+
+Project: laboratory arthropod population and decay experimental studies, with application to the fossil record
+
+<h4>NERC Doctoral Training Partnership, PhD studentship</h4>
+
+\| 2014–18, \~£130'000
