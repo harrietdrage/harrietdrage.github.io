@@ -2,14 +2,14 @@
 title: "Research"
 ---
 
-<h2>Palaeoecological hypothesis testing</h2>
+<h3>Palaeoecological hypothesis testing</h3>
 
 I am holder of an **ERC Starting Grant funding the RECO-ECO project** (2026--2031), which uses interdisciplinary analytical methods to reconstruct the ecologies of extinct animals. I am developing a comprehensive protocol for directly testing palaeoecological hypotheses in the Earth's earliest arthropods by using fluid dynamics simulations and novel experiments. This work also requires 3D modelling, particle movement simulation, dispersal analyses, and biogeographic analyses. My research is developing methods applicable to palaeoecology across extinct marine animals, and is answering key outstanding questions about how arthropods came to dominate Earth's ecosystems more than 500 million years ago.
 
-<h2>Development and teaching of palaeontological analysis software</h2>
+<h3>Development and teaching of palaeontological analysis software</h3>
 
 As part of the [palaeoverse](https://palaeoverse.org) group, and **co-PI of a Institute for Research Software (UK) Research Software Maintenance Fund grant**, I work to develop new analytical tools for palaeontological research in R. With this grant, we teach regular week-long, international workshops on using R for research and open science tools. We are also running a mentoring program for palaeontology students that want to learn software development skills.
 
-<h2>Exoskeleton moulting behaviour</h2>
+<h3>Exoskeleton moulting behaviour</h3>
 
 My earlier research concentrated on the **evolution of exoskeleton moulting behaviour in arthropods**. Arthropods in the modern-day include insects, crustaceans, and all similar animals with a reinforced external skeleton. The exoskeleton provides protection from predation and parasitism, as well as supporting the internal musculature. This heavily contributed to the keystone position of arthropods in all of Earth’s ecosystems over the last 520 million years. However, exoskeletons are completely restrictive, and must therefore be shed (moulted) periodically throughout an arthropod’s life. The moulting process varies between arthropod groups, but is thought to be the most dangerous and risky life event, during which the majority of individual fatalities occur. Moulting behaviour therefore affected many aspects of the evolution of their morphology, ecology, and development. I focus on understanding what the arthropod moult fossil record can tell us about the evolution of this behaviour across the group, and how this links to the other aspects of their evolution. I mostly work on the Palaeozoic, particularly the Cambrian and Ordovician (\~540-440 million years ago), but work also on arthropod groups that are still alive today. As part of a broader, multidisciplinary project I have also been working to produce a new public, open-access database storing all moulting records ([MoultDB](https://moultdb.org/)) to facilitate future research in this area, and in investigating moulting genomics and transcriptomics.
