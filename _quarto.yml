@@ -27,6 +27,8 @@ website:
         text: Research
       - href: responsibilities.qmd
         text: Roles
+      - href: grants.qmd
+        text: Grants
       #- href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
        # text: CV
         # target: _blank # opens link (or page) in a new browser tab
