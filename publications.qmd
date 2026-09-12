@@ -3,12 +3,13 @@ title: "Publications"
 tbl-colwidths: [25,75,25]
 ---
 
-::: pubsintro
-<h6>Below is a list of my current publications and their themes. You can also see my Google Scholar, orcID or Web of Science profiles.</h6>
-:::
+Below is a list of my current publications and their themes. You can also see my Google Scholar, ORCiD or Web of Science profiles.
 
-::: tablekey
-![](data-management.png){#bigdata fig-alt="logo representing management of big data and databases" fig-align="left" width="30"} Management of big data & databases <br>![](stats.png){#stats fig-alt="logo representing statistical analyses" fig-align="left" width="30"} Statistical analysis <br>![](code-review.png){fig-align="left" width="30"} Computational methods creation <br>![](morphology.png){fig-alt="logo representing arthropod morphology" fig-align="left" width="30"} Morphology & morphometrics <br>![](pickaxe.png){fig-alt="logo representing palaeontology field work" fig-align="left" width="30"} Palaeontological specimens & field work <br>![](marine.png){fig-alt="logo representing marine ecologies and environments" fig-align="left" width="30"} Palaeoecology & fluid dynamics <br>![](openaccess.png){fig-alt="logo representing accessible science" fig-align="left" width="30"} Open science principles
+::: {layout-ncol="2"}
+
+**Publication themes key** <br> <br>![](data-management.png){#bigdata fig-alt="logo representing management of big data and databases" fig-align="left" width="30"}Management of big data & databases <br>![](stats.png){#stats fig-alt="logo representing statistical analyses" fig-align="left" width="30"} Statistical analysis <br>![](code-review.png){fig-align="left" width="30"} Computational methods creation <br>
+
+![](morphology.png){fig-alt="logo representing arthropod morphology" fig-align="left" width="30"} Morphology & morphometrics <br>![](pickaxe.png){fig-alt="logo representing palaeontology field work" fig-align="left" width="30"} Palaeontological specimens & field work <br>![](marine.png){fig-alt="logo representing marine ecologies and environments" fig-align="left" width="30"} Palaeoecology & fluid dynamics <br>![](openaccess.png){fig-alt="logo representing accessible science" fig-align="left" width="30"} Open science principles
 :::
 
 <h2>Scientific publications</h2>
