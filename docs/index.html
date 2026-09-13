@@ -90,9 +90,6 @@ ul.task-list li input[type="checkbox"] {
         </a>
     </div>
   </nav>
-  <div id="quarto-announcement" data-announcement-id="3fb25577e3021a9c890b469bca9fafe3" class="alert alert-primary hidden"><div class="quarto-announcement-content">
-<p>DRAFT WEBSITE - IN PROGRESS</p>
-</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
@@ -127,26 +124,61 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./research.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
+ <span class="menu-text">Projects</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./recoeco.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">recoeco</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./opal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">opal</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./moulting.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">moulting</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./palaeoverse.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">palaeoverse</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./publications.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Publications</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research</span></a>
+  <a href="./grants.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Grants</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./responsibilities.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Roles</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./grants.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Grants</span></a>
   </div>
 </li>
         <li class="px-0"><hr class="sidebar-divider hi "></li>
@@ -195,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
 Value-driven leader, open science advocate, fan of fossils.
 </h2>
 <p>I am an Assistant Professor at the University of Geneva, working on the palaeobiology and palaeoecology of arthropods in deep time. To do so, I employ sophisticated computational analytical methods, statistics, and fluid dynamics techniques, using big data. I am an advocate of open-access publishing and data, and enjoy dabbling in web design.</p>
-<p>I am dedicated to improving publishing, conditions in academia, and inclusivity. I am Co-Founder and Managing Editor of <i>Open Palaeontology</i> (ISSN:), and Newsletter Editor and Charity Trustee for <i>The Palaeontological Association</i>.</p>
+<p>I am dedicated to improving publishing, conditions in academia, and inclusivity. I am Co-Founder and Managing Editor of <i>Open Palaeontology</i> (ISSN: 3042-657X), and Newsletter Editor and Charity Trustee for <i>The Palaeontological Association</i>.</p>
 <p>I worked previously as a Commissioning Editor for science in secondary education (age 11–18) for Oxford University Press. In my spare time, I enjoy climbing, hiking, weightlifting, video games, and sewing.</p>
 <h3>
 Education
@@ -203,7 +235,7 @@ Education
 <h5>
 University of Oxford | PhD in Environmental Research
 </h5>
-<p>Oct 2014 – Dec 2018</p>
+<p>Oct 2014 – May 2019</p>
 <h5>
 University College London | MSci in Palaeobiology
 </h5>
@@ -302,7 +334,7 @@ University Oxford Press | Editor, Secondary Science Education
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/harrietdrage\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

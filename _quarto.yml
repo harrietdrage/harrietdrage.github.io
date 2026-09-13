@@ -5,12 +5,13 @@ project:
 #commit and push, then publish using quarto publish gh-pages, then merge to main branch on github
 
 website:
-  announcement: 
-    content: "DRAFT WEBSITE - IN PROGRESS" 
-    position: below-navbar 
+  #announcement: 
+    #content: "DRAFT WEBSITE - IN PROGRESS" 
+    #position: below-navbar 
   title: "Dr Harriet B. Drage"
   favicon: /logo2.png
   sidebar:
+    collapse-level: 1
     style: "docked" # or floating
     logo: /logo2.png
     logo-alt: "Dr Harriet B. Drage"
@@ -21,14 +22,21 @@ website:
       - text: "---"
       - href: index.qmd
         text: About
-      - href: publications.qmd
-        text: Publications
       - href: research.qmd
         text: Research
-      - href: responsibilities.qmd
-        text: Roles
+      - section: "Projects"
+        contents:
+          - recoeco.qmd #ADD icons to titles here
+          - opal.qmd
+          - moulting.qmd
+          - palaeoverse.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
       - href: grants.qmd
         text: Grants
+      - href: responsibilities.qmd
+        text: Roles
       #- href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
        # text: CV
         # target: _blank # opens link (or page) in a new browser tab
@@ -49,6 +57,7 @@ website:
       #- text: "{{< fa brands researchgate >}} ResearchGate"
         #href: https://www.researchgate.net/profile/Harriet-Drage-2
     background: dark
+  back-to-top-navigation: true
 
     
 format:
