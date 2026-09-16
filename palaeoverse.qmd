@@ -3,13 +3,21 @@ title: "Converting Users to Contributors: Enabling Sustainable Maintenance and D
 format: html
 ---
 
-<h5>Funding agency:</h5> Institute of Research Software (UKRI), Research Software Maintenance Fund grant
+<h5>Funding agency:</h5>
 
-<h5>Grant reference:</h5> AH/Z000114/1
+Institute of Research Software (UKRI), Research Software Maintenance Fund grant
 
-<h5>Period:</h5> 2026 –- 28
+<h5>Grant reference:</h5>
 
-<h5>Project co-leads:</h5> Lewis A. Jones, University College London, UK (Lead applicant) \| Dr Bethany J. Allen, GFZ Helmholtz Centre for Geosciences, Germany **\|** Dr Christopher D. Dean, Department of Energy Security and Net Zero, UK **\|** **Dr Harriet B. Drage**, University of Geneva, Switzerland **\|** Dr Erin M. Dillon, Smithsonian Tropical Research Institute, Panama **\|** Dr Joseph T. Flannery-Sutherland, University of Birmingham, UK **\|** Dr William Gearty, Syracuse University, USA **\|** Dr Pedro L. Godoy, University of São Paulo, Brazil
+AH/Z000114/1
+
+<h5>Period:</h5>
+
+2026 –- 28
+
+<h5>Project co-leads:</h5>
+
+Lewis A. Jones, University College London, UK (Lead applicant) \| Dr Bethany J. Allen, GFZ Helmholtz Centre for Geosciences, Germany **\|** Dr Christopher D. Dean, Department of Energy Security and Net Zero, UK **\|** **Dr Harriet B. Drage**, University of Geneva, Switzerland **\|** Dr Erin M. Dillon, Smithsonian Tropical Research Institute, Panama **\|** Dr Joseph T. Flannery-Sutherland, University of Birmingham, UK **\|** Dr William Gearty, Syracuse University, USA **\|** Dr Pedro L. Godoy, University of São Paulo, Brazil
 
 ![](palaeoverse-logo.png){fig-align="left" width="555"}
 
