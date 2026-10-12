@@ -2,3 +2,31 @@
 title: "Arthropod moulting"
 format: html
 ---
+
+<h3>Summary</h3>
+
+The arthropod exoskeleton provides protection from predation and parasitism, as well as supporting the internal musculature. This feature heavily contributed to the keystone position of arthropods in all of Earth’s ecosystems over the last 520 million years. However, exoskeletons are completely restrictive, and must therefore be shed (moulted) periodically throughout an arthropod’s life. The moulting process varies between arthropod groups, but is thought to be the most dangerous and risky life event, during which the majority of individual fatalities occur. Moulting behaviour therefore affected many aspects of the evolution of their morphology, ecology, and development.
+
+My PhD and previous postdoctoral research focused on understanding what the arthropod moult fossil record can tell us about the evolution of exoskeleton across the group, and how this links to the other aspects of arthropod evolution. I mostly work on the Palaeozoic, particularly the Cambrian and Ordovician (\~540-440 million years ago), but also on arthropod groups that are still alive today. My postdoc was part of a broader, multidisciplinary project to study moulting through arthropod evolutionary history, including into the present. This included incorporating genomics and transcriptomics in studying moulting, as well as extant and extinct behaviour, development and morphology.
+
+<h3>Support</h3>
+
+I was employed on this project as a postdoctoral researcher (2021—26), providing expertise on the fossil record of arthropod moulting.
+
+<h5>Funding agency:</h5>
+
+Swiss National Science Foundation Sinergia grant (awarded to M. Robinson-Rechavi, A. Daley, A. Chipman and R. Waterhouse)
+
+<h5>Grant reference:</h5>
+
+198691
+
+<h3>Links</h3>
+
+- [Article](https://doi.org/10.1016/j.asd.2015.09.004) in *Arthropod Stucture & Development* by Daley and Drage reviewing the fossil record of moulting
+
+- [MoultDB](https://moultdb.org/) public database storing moulting records of extant and extinct species
+
+- [iNaturalist](https://www.inaturalist.org/projects/moulting-arthropods) project for the MoultDB
+
+![](snf-logo.png){fig-align="center"}

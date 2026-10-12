@@ -1,7 +1,9 @@
 ---
-title: "Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse"
+title: "Palaeoverse"
 format: html
 ---
+
+<h2>Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse</h2>
 
 <h5>Funding agency:</h5>
 
@@ -13,16 +15,24 @@ AH/Z000114/1
 
 <h5>Period:</h5>
 
-2026 –- 28
+2026—28
 
 <h5>Project co-leads:</h5>
 
-Lewis A. Jones, University College London, UK (Lead applicant) \| Dr Bethany J. Allen, GFZ Helmholtz Centre for Geosciences, Germany **\|** Dr Christopher D. Dean, Department of Energy Security and Net Zero, UK **\|** **Dr Harriet B. Drage**, University of Geneva, Switzerland **\|** Dr Erin M. Dillon, Smithsonian Tropical Research Institute, Panama **\|** Dr Joseph T. Flannery-Sutherland, University of Birmingham, UK **\|** Dr William Gearty, Syracuse University, USA **\|** Dr Pedro L. Godoy, University of São Paulo, Brazil
+Dr Lewis A. Jones, University College London, UK (Lead applicant) \| Dr Bethany J. Allen, GFZ Helmholtz Centre for Geosciences, Germany **\|** Dr Christopher D. Dean, Department of Energy Security and Net Zero, UK **\|** **Dr Harriet B. Drage**, University of Geneva, Switzerland **\|** Dr Erin M. Dillon, Smithsonian Tropical Research Institute, Panama **\|** Dr Joseph T. Flannery-Sutherland, University of Birmingham, UK **\|** Dr William Gearty, Syracuse University, USA **\|** Dr Pedro L. Godoy, University of São Paulo, Brazil
 
-![](palaeoverse-logo.png){fig-align="left" width="555"}
-
-![](irs-logo.png){width="1000"}![](ukri-logo.png){width="612"}
+![](palaeoverse-logo.png){fig-align="left" width="150" height="45"} ![](irs-logo.png){width="251"} ![](ukri-logo.png){width="153"}
 
 <h3>Summary</h3>
 
+Palaeoverse is an initiative to unite the palaeobiological community through shared resources, training events, development of useful software tools, and a commitment to improving accessibility and reproducibility in palaeobiological research. We have since published a number of R packages of quantitative palaeobiological analyses, published articles on best practices for handling data (see link below), run a monthly methods online seminar, and host a community space on Zulip, amongst other work.
+
+This project aims to evolve Palaeoverse into a community-driven project, where users actively contribute to the development, maintenance, and review of Palaeoverse software. We have five key objectives: (1) audit and update existing Palaeoverse software packages to improve internal structure, code readability, and maintainability; (2) expand contributor guidelines and documentation to support community contributions; (3) develop and run multiple community training events each year on research software development and open science; (4) develop and run a dedicated mentorship programme to train early-career researchers in research software development and maintenance; and (5) re-define Palaeoverse’s governance structure to support long-term strategic planning and drive towards community ownership.
+
 <h3>Links</h3>
+
+- Palaeoverse [website](https://palaeoverse.org)
+
+- [CRAN Task View: Paleontology](https://cran.r-project.org/web/views/Paleontology.html) - in which we bring together R packages for palaeobiological data handling
+
+- [*Palaeontology* article](https://doi.org/10.1111/pala.70028) providing guidelines for cleaning and managing palaeobiological data
