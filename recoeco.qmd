@@ -1,0 +1,34 @@
+---
+title: "RECO-ECO"
+format: html
+---
+
+<h2>Reconstructing the ecologies of Earth's earliest arthropods</h2>
+
+<h5>Funding agency:</h5>
+
+European Research Council, Horizon Europe, Starting Grant
+
+<h5>Grant reference:</h5>
+
+GAP-101219676
+
+<h5>Period:</h5>
+
+2026—31 (awarded 2025)
+
+<h3>Summary</h3>
+
+A major goal of palaeontology is having accurate and well-informed reconstructions of the ecology of ancient animals. This is key to our understanding of the broad-scale development of life on Earth and global ecosystems. Arthropods are the most abundant and diverse group of animals throughout Earth’s history, comprising \>80% of described species, living across the globe, and displaying a broad range of morphologies that may represent the earliest adaptations to key ecological niches. The RECO-ECO project will test putative ecological adaptations of Earth’s earliest arthropods, clarifying how they dispersed globally and how they moved and fed in these environments \>500 million years ago.
+
+RECO-ECO will use sophisticated Computational Fluid Dynamics simulations and the novel establishment of flume tank Experimental Fluid Dynamics to test the palaeoecologies of these early arthropods. The project has three Research Objectives: (1) Do morphologies of key extinct arthropods represent adaptations to a pelagic ecology? (2) How do extinct arthropod head shields interact with water and particle flow in feeding? (3) How do arthropod exoskeleton sclerites move and orientate in water and sediment flow regimes? Through answering these questions, I will reveal: (1) whether pelagic ecologies increased the dispersal capability of early arthropods, allowing them to dominate Earth’s oceans; (2) when key feeding ecologies evolved in arthropods and how they shaped ecosystem change; and (3) whether our fossil record palaeoecological interpretations are reliable or impacted by sedimentary flow processes.
+
+The need for robust palaeoecological hypothesis-testing is not unique to the arthropod fossil record and so the establishment of reliable and broadly applicable fluid dynamics methods during the RECO-ECO project will support quantitative palaeoecological testing in other early animal groups. This will revolutionise our ability to read the ecologies of extinct animals from the fossil record and understand their impacts on ecosystem change throughout Earth’s history.
+
+<h3>Links</h3>
+
+- [Fact sheet](https://cordis.europa.eu/project/id/101219676) on the project and host on the EU CORDIS site
+
+- [Preprint](https://doi.org/10.32942/X28W36) by Drage, Pates and Minter on experimental fluid dynamics methods
+
+![](erc-logo.png){fig-align="center" width="348"}

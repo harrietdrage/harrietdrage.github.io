@@ -25,7 +25,7 @@ about:
 
 I am an Assistant Professor at the University of Geneva, working on the palaeobiology and palaeoecology of arthropods in deep time. To do so, I employ sophisticated computational analytical methods, statistics, and fluid dynamics techniques, using big data. I am an advocate of open-access publishing and data, and enjoy dabbling in web design.
 
-I am dedicated to improving publishing, conditions in academia, and inclusivity. I am Co-Founder and Managing Editor of <i>Open Palaeontology</i> (ISSN:), and Newsletter Editor and Charity Trustee for <i>The Palaeontological Association</i>.
+I am dedicated to improving publishing, conditions in academia, and inclusivity. I am Co-Founder and Managing Editor of <i>Open Palaeontology</i> (ISSN: 3042-657X), and Newsletter Editor and Charity Trustee for <i>The Palaeontological Association</i>.
 
 I worked previously as a Commissioning Editor for science in secondary education (age 11--18) for Oxford University Press. In my spare time, I enjoy climbing, hiking, weightlifting, video games, and sewing.
 
@@ -33,7 +33,7 @@ I worked previously as a Commissioning Editor for science in secondary education
 
 <h5>University of Oxford \| PhD in Environmental Research</h5>
 
-Oct 2014 -- Dec 2018
+Oct 2014 -- May 2019
 
 <h5>University College London \| MSci in Palaeobiology</h5>
 

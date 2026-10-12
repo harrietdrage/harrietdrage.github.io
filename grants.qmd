@@ -14,7 +14,7 @@ I was awarded a 2025 Starting Grant from the European Research Council to start 
 
 <h4>Research Software Maintenance Fund grant, Institute of Research Software, UK</h4>
 
-\| 2026–28, Co-PI, £483'046
+\| 2026–28, Co-PI, £634'129
 
 Project: Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse
 

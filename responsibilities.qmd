@@ -4,17 +4,21 @@ title: "Roles"
 
 <h3>Responsibilities</h3>
 
-<h4>*Open Palaeontology* Co-Founder, Managing Editor, Steering Committee</h4>
+<h4>*Open Palaeontology* President, co-founder, Managing Editor, Steering Committee</h4>
 
 \| 2024 -- present
 
-I am a co-founder, Steering Committee member, and Managing Editor of [*Open Palaeontology*](https://www.openpalaeo.org/)*,* a new diamond open access journal. We present a transformative publishing model to increase transparency and accountability in academic research, support ECRs, and provide a venue to publish less visible research aspects like new analysis packages and negative results.
+I am current President, a co-founder, Steering Committee member, and Managing Editor of [*Open Palaeontology*](https://www.openpalaeo.org/)*,* a new diamond open access journal. We present a transformative publishing model to increase transparency and accountability in academic research, support ECRs, and provide a venue to publish less visible research aspects like new analysis packages and negative results.
+
+![](opal-circle1.png){fig-align="center" width="100"}![](opal-circle2.png){width="100"}![](opal-logo.png){width="200"}![](opal-circle3.png){width="100"}![](opal-circle5.png){width="100"}
 
 <h4>The Palaeontological Association Newsletter Editor, charity trustee</h4>
 
 \| 2023 -- present
 
 Member of Council Diversity Group, grant-awarding committees, and Annual Meeting presentation prize committees.
+
+![](palass-logo.png){fig-align="center" width="100"}
 
 <h4>Commission for the *Swiss Journal of Palaeontology* KSJP, Swiss Academy of Sciences, Council Member, Associate Editor</h4>
 
