@@ -3,7 +3,7 @@ title: "Publications"
 tbl-colwidths: [25,75,25]
 ---
 
-Below is a list of my current publications and their themes. You can also see my Google Scholar, ORCiD or Web of Science profiles.
+Below is a list of my current publications and their themes. You can also see my [Google Scholar](https://scholar.google.com/citations?user=pWfSfL4AAAAJ&hl=en&authuser=1), [ORCiD](https://orcid.org/0000-0002-0759-5970) or [Web of Science](https://www.webofscience.com/wos/author/record/AAC-7414-2022) profiles.
 
 ::: {layout-ncol="2"}
 **Publication themes key** <br> <br>![](data-management.png){#bigdata fig-alt="logo representing management of big data and databases" fig-align="left" width="30"}Management of big data & databases <br>![](stats.png){#stats fig-alt="logo representing statistical analyses" fig-align="left" width="30"} Statistical analysis <br>![](code-review.png){fig-align="left" width="30"} Computational methods creation <br>
