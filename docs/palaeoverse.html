@@ -240,9 +240,11 @@ Summary
 <h3 class="anchored">
 Links
 </h3>
-<p>Palaeoverse <a href="https://palaeoverse.org">website</a></p>
-<p><a href="https://cran.r-project.org/web/views/Paleontology.html">CRAN Task View: Paleontology</a> - in which we bring together R packages for palaeobiological data handling</p>
-<p><a href="https://doi.org/10.1111/pala.70028"><em>Palaeontology</em> article</a> providing guidelines for cleaning and managing palaeobiological data</p>
+<ul>
+<li><p>Palaeoverse <a href="https://palaeoverse.org">website</a></p></li>
+<li><p><a href="https://cran.r-project.org/web/views/Paleontology.html">CRAN Task View: Paleontology</a> - in which we bring together R packages for palaeobiological data handling</p></li>
+<li><p><a href="https://doi.org/10.1111/pala.70028"><em>Palaeontology</em> article</a> providing guidelines for cleaning and managing palaeobiological data</p></li>
+</ul>
 
 
 
@@ -320,7 +322,7 @@ Links
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/harrietdrage\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

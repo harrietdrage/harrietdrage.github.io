@@ -1,5 +1,5 @@
 ---
-image: /IMG_3987.HEIC
+image: /Drage_HB.jpg
 about: 
   template: trestles
   links:
